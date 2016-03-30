@@ -4,7 +4,7 @@
 
 This lab was designed to be completed during the Ecosystem Architecture Workshop. For additional sample apps check out the [Watson Application Starter Kits] (http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/application-starter-kits.html)
 
-For detailed instructions see INSTRUCTIONS.MD
+For detailed instructions see [INSTRUCTIONS.MD](./INSTRUCTIONS.md)
 
 [bluemix]: https://console.ng.bluemix.net/
 [wdc_services]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html
